@@ -22,4 +22,4 @@ After reviewing this data, we decided focus on these questions:
 
 •	Race/Ethnicity - Jesse
 
-Our work is seperated into folders with an additional folder containing our ETL report and visualization pngs.
+Our work is seperated into seperate folders.
